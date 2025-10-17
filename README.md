@@ -35,7 +35,6 @@ I'm a **Machine Learning practitioner** passionate about building predictive mod
 
 #### 🧱 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?logo=visual-studio-code&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 
